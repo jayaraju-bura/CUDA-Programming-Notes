@@ -24,7 +24,12 @@ int main() {
 }
 
 
+
+
 References:- 
 
 https://nvcc4jupyter.readthedocs.io/en/latest/usage.html#hello-world
 https://toranbillups.com/blog/archive/2023/08/19/install-cuda-12-on-popos/
+
+
+Refer this later https://github.com/TheUnsolvedDev/CUDA_NN_FS
